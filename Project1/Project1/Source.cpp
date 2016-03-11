@@ -2,9 +2,11 @@
 
 int main()
 {
-	printf("Ola GIt");
+	printf("Ola Git");
 
 	int a;
-	scanf_s("%d", &s);
+	scanf_s("%d", &a);
+
+
 	return 0;
 }
